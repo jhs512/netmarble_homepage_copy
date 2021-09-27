@@ -8,6 +8,9 @@
 
   <script src="common.js"></script>
   <link rel="stylesheet" href="common.css">
+
+  <script src="<?=$pageCode?>.js"></script>
+  <link rel="stylesheet" href="<?=$pageCode?>.css">
 </head>
 <body>
   <div class="side-bar">
