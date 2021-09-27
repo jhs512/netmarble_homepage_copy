@@ -14,8 +14,6 @@
 
 .site-wrap {
   margin-left:var(--side-bar__width);
-  height: 100px;
-  background-color:red;
 }
 
 .con-min-width {
