@@ -1,0 +1,27 @@
+:root {
+  --side-bar__width:300px;
+  --site-content-width: 1400px;
+}
+
+.side-bar {
+  position: fixed;
+  top:0;
+  left:0;
+  width:var(--side-bar__width);
+  height: 100%;
+  background-color:#afafaf;
+}
+
+.site-wrap {
+  margin-left:var(--side-bar__width);
+  height: 100px;
+  background-color:red;
+}
+
+.con-min-width {
+  min-width: var(--site-content-width);
+}
+
+.con {
+  width: var(--site-content-width);
+}

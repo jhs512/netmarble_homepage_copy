@@ -6,6 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>넷마블</title>
 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.16/tailwind.min.css">
+
   <script src="common.js"></script>
   <link rel="stylesheet" href="common.css">
 
@@ -21,4 +23,6 @@
       </li>
     </ul>
   </div>
-  
+
+  <div class="site-wrap con-min-width">
+    <main>
