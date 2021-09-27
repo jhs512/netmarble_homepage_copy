@@ -2,8 +2,25 @@
 <?php require_once "head.php"; ?>
 
 <section class="section section-1">
-  <div>
-    <div style="background-image:url(https://picsum.photos/id/230/2200/700); height:300px; background-repeat:no-repeat; background-position:center;"></div>
+  <div class="swiper-box-1">
+    <!-- Slider main container -->
+    <div class="swiper">
+      <!-- Additional required wrapper -->
+      <div class="swiper-wrapper">
+        <!-- Slides -->
+        <div class="swiper-slide">
+          <div style="background-image:url(https://picsum.photos/id/230/2200/700);"></div>
+        </div>
+        <div class="swiper-slide">
+          <div style="background-image:url(https://picsum.photos/id/231/2200/700);"></div>
+        </div>
+        <div class="swiper-slide">
+          <div style="background-image:url(https://picsum.photos/id/232/2200/700);"></div>
+        </div>
+      </div>
+      <!-- If we need pagination -->
+      <div class="swiper-pagination"></div>
+    </div>
   </div>
 </section>
 

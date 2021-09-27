@@ -1,0 +1,12 @@
+:root {
+  --swiper-box-1__height: 500px;
+}
+
+.swiper-box-1 .swiper {
+  height: var(--swiper-box-1__height);
+}
+
+.swiper-box-1 .swiper .swiper-slide > div {
+  height: var(--swiper-box-1__height);
+  background-position: center;
+}

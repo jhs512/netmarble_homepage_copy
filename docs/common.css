@@ -10,12 +10,11 @@
   width:var(--side-bar__width);
   height: 100%;
   background-color:#afafaf;
+  z-index: 100;
 }
 
 .site-wrap {
   margin-left:var(--side-bar__width);
-  height: 100px;
-  background-color:red;
 }
 
 .con-min-width {
