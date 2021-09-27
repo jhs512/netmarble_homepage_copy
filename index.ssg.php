@@ -9,7 +9,9 @@
       <div class="swiper-wrapper">
         <!-- Slides -->
         <div class="swiper-slide">
-          <div style="background-image:url(https://picsum.photos/id/230/2200/700);"></div>
+          <div style="background-image:url(https://picsum.photos/id/230/2200/700);">
+            
+          </div>
         </div>
         <div class="swiper-slide">
           <div style="background-image:url(https://picsum.photos/id/231/2200/700);"></div>

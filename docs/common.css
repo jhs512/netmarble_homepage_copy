@@ -24,3 +24,13 @@
 .con {
   width: var(--site-content-width);
 }
+
+.top-bar {
+  position: absolute;
+  top:0;
+  left:var(--side-bar__width);
+  right:0;
+  height:50px;
+  background-color:red;
+  z-index: 50;
+}
