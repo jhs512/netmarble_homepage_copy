@@ -18,9 +18,9 @@
           <div style="background-image:url(https://picsum.photos/id/232/2200/700);"></div>
         </div>
       </div>
-      <!-- If we need pagination -->
-      <div class="swiper-pagination"></div>
     </div>
+    <!-- If we need pagination -->
+    <div class="swiper-pagination"></div>
   </div>
 </section>
 
